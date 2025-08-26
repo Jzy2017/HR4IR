@@ -1,7 +1,7 @@
 # HR4IR
 This is an implement of the HR4IR,
-**“Breaking Modality Disparity: Harmonized Representation for Infrared and Visible Image Registration"**, 
-Zhiying Jiang, Zengxi Zhang, Jinyuan Liu, Xin Fan, Risheng Liu*, 2024, under review.
+**“Harmonized Domain Enabled Alternate Search for Infrared and Visible Image Alignment"**, 
+Zhiying Jiang, Zengxi Zhang, Jinyuan Liu*, 2025, under review.
 
 ## Overview
 ![avatar](Overview.png)
